@@ -35,7 +35,7 @@ Stick a TV on the wall, open a browser there and enjoy your TeamCity projects in
 
 ### Windows IIS
 
-1. Ensure you have [.NET Core Windows Server Hosting Bundle](https://docs.microsoft.com/en-us/aspnet/core/publishing/iis?tabs=aspnetcore1x) installed 
+1. Ensure you have [.NET Core Windows Server Hosting Bundle](https://docs.microsoft.com/en-us/aspnet/core/publishing/iis?tabs=aspnetcore1x) and [.NET Core 1.1.x Runtime](https://www.microsoft.com/net/download/core#/runtime) installed 
 2. Download and unzip the [the latest release](https://github.com/amoerie/teamcity-theatre/releases)
 3. Add the following to the `appsettings.json` file:
 
